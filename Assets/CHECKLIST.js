@@ -1,0 +1,21 @@
+﻿/*
+-bullet velocity
+-bullet collisions w/ enemy
+-ennemyspawn
+-enemy AI
+-scoreboard (score)
+-HUD - health,weapon,etc..
+-gun art
+-relic art
+-relics
+-main menu SCENE
+-level select SCENE
+-database
+-user login 
+-user pull highscore
+-pull users leaderboard SCENE
+-game over board
+-more maps
+-more guns
+-more relics
+*/
